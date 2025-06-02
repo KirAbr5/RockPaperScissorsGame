@@ -1,5 +1,6 @@
 1) Код игры файла game.py сделан с помощью сайта:
 https://pythonistaplanet.com/rock-paper-scissors-game-using-python-tkinter/
+(позже также дополнен мной)
 2) Код main.py написан полностью самостоятельно
 
 Game Rules (с сайта)
